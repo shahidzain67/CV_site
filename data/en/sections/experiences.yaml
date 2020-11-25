@@ -1,0 +1,58 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  template: sections/experiences.html
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: University of Salford
+    url: "https://www.salford.ac.uk/"
+    location: Salford, England
+    # company overview
+    overview: School of Health and Society, University of Salford.
+  positions:
+  - designation: PhD Student
+    start: September 2019
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Design and development of foot medical health devices
+    - Committee member of the [Prosthetics and Orthotics Society](https://www.cdtpando.com/)
+    - Teaching and student support
+
+- company:
+    name: Codethink
+    url: "https://www.codethink.co.uk/"
+    location: Manchester, England
+    overview: Codethink specialises in system-level software infrastructure to support advanced technical applications, working across a range of industries including finance, automotive, medical, telecoms.
+  positions:
+  - designation: Software Engineering Intern
+    start: June 2019
+    end: September 2019
+    responsibilities:
+    - Shadowing engineers in Python, C and Rust-based applications
+    - Contributing to open-source projects and the wider GNOME community
+    - Completing software upgrades for automotibe clients to be applied in future releases
+
+- company:
+    name: Yelo Test Systems
+    url: "https://www.yelo.co.uk/"
+    location: Carrickfergus, Northern Ireland
+    # company overview
+    overview: Yelo designs and manufacturers automated test equipment and test engineering solutions for a range of industries including photonics, automotive and defence.
+  positions:
+  - designation: Applications Engineer
+    start: June 2017
+    end: September 2018
+    responsibilities:
+    - Project managed the development of an autonomous, optically driven PCB drill
+    - Developed programs using LabVIEW, C++ and C.
+    - Primarily worked on product repair and technical support for clients.

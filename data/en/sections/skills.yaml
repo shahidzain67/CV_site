@@ -1,0 +1,48 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  template: sections/skills.html
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Linux
+  icon: "/img/linux.png"
+  summary: "Use as a secondary operating system. Capable of writing bash/shell scripts."
+
+- name: Git
+  icon: "/img/git.png"
+  summary: "Experienced with git-based development. Mostly, use Gitlab. Also, have experience in working with GitHub."
+  url: "https://git-scm.com/"
+
+- name: C++
+  icon: "/img/c++.png"
+  summary: "Know basic C/C++ programming. Used primarily in conjuction with Arduino."
+
+- name: Python
+  icon: "/img/python.jpeg"
+  summary: "Know basic Python-based programming. Used primarily in conjuction with Raspberry Pi"
+
+- name: Arabic
+  icon: "/img/arabic.jpg"
+  summary: "Basic speaker of Arabic. Primarily studying Modern Standard Arabic."
+  url: "https://letrasconlalechuga.netlify.app/ar/"
+
+- name: Spanish
+  icon: "/img/spanish.jpg"
+  summary: "Fluent speaker of Spanish with a South American Accent."
+  url: "https://letrasconlalechuga.netlify.app/sp/"
+
+- name: British Sign Language
+  icon: "/img/BSL.jpg"
+  summary: "Basic signer of BSL and just enjoying getting to grips with it!"
+
+- name: Urdu
+  icon: "/img/urdu.jpg"
+  summary: "Conversational speaker of Urdu."

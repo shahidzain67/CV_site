@@ -1,0 +1,68 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  template: sections/projects.html
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Professional
+  filter: "professional"
+- name: Academic
+  filter: "academic"
+- name: Hobby
+  filter: "hobby"
+
+# your projects
+projects:
+- name: Phantom-Foot Simulator
+  logo: /img/phan-foot.png
+  role: Owner
+  timeline: "September 2019 - Present"
+  summary: Development of tools to aid industrial foot medical device design.
+  tags: ["professional"]
+
+- name: Academic Journal
+  logo: /img/academic.jpg
+  role: Owner
+  timeline: "September 2019 - May 2020"
+  repo: "https://gitlab.com/shahidzain67/phd-journal-tracking"
+  summary: Day to day recording of academic notes
+  tags: ["academic"]
+
+- name: CDT Society
+  logo: /img/logo.png
+  role: Committee Member
+  timeline: "September 2019 - Present"
+  url: "https://www.cdtpando.com/"
+  summary: A student-led society for the promotion of innovations for prosthetic and orthotic users.
+  tags: ["academic"]
+
+- name: BSL Society
+  logo: /img/BSL.jpg
+  role: Member
+  timeline: "September 2020 - Present"
+  url: "https://letrasconlalechuga.netlify.app/bsl/"
+  summary: Learning British Sign Language 
+  tags: ["hobby"]
+
+- name: Bouldering
+  logo: /img/bouldering.jpg
+  role: Member
+  timeline: "May 2017 - Present"
+  summary: Bouldering and rock climbing.
+  tags: ["hobby"]
+
+- name: Knitting
+  logo: /img/knitting.jpg
+  role: Owner
+  timeline: "Forever and Always"
+  summary: Perpetually making something.
+  tags: ["hobby"]

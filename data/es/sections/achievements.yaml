@@ -1,0 +1,25 @@
+# section information
+section:
+  name: Logros
+  id: achievements
+  enable: true
+  weight: 6
+  showOnNavbar: true
+  template: sections/achievements.html
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your achievements achievements
+achievements:
+- title: Graduación
+  image: /img/graduation-cap.jpg
+  summary: Recibió la Licenciatura en Ingeniería (B.Eng.) En Ingeniería Mecatrónica con Experiencia Industrial de la Universidad de Manchester.
+- title: Recaudación de Fondos
+  image: /img/fundraising.jpg
+  summary: Recaudó £ 28,000 y dirigió un equipo para escalar el Kilimanjaro para [Hope for Children] (https://www.hope-for-children.org/)
+- title: Trabajar cómo voluntario
+  image: /img/volunteering.jpg
+  summary: Colocación de Servicio Ciudadano Internacional completada en Nicaragua con [Raleigh International] (https://raleighinternational.org/)
+- title: Aprendizaje de Idiomas
+  image: /img/languages.jpg
+  summary: Hablante nativo de inglés, español fluido y principiante en urdu, árabe y lenguaje de señas británico.

@@ -1,0 +1,58 @@
+# section information
+section:
+  name: Experiencias
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  template: sections/experiences.html
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Universidad de Salford
+    url: "https://www.salford.ac.uk/"
+    location: Salford, Inglaterra
+    # company overview
+    overview: Departamento de Salud y Sociedad, Universidad de Salford.
+  positions:
+  - designation: Estudiante de doctorado
+    start: Septiembre 2019
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Diseño y desarrollo de dispositivos médicos para la salud del pie
+    - Miembro del comité de la [Sociedad de Prótesis y Ortesis] (https://www.cdtpando.com/)
+    - Apoyo docente y estudiantil
+
+- company:
+    name: Codethink
+    url: "https://www.codethink.co.uk/"
+    location: Manchester, Inglaterra
+    overview: Codethink se especializa en infraestructura de software a nivel de sistema para admitir aplicaciones técnicas avanzadas, trabajando en una variedad de industrias, incluidas las finanzas, automotriz, médica y telecomunicaciones.
+  positions:
+  - designation: Becario de Ingeniería de Software
+    start: Junio 2019
+    end: Septiembre 2019
+    responsibilities:
+    - Ingenieros de seguimiento en aplicaciones basadas en Python, C y Rust
+    - Contribuir a proyectos de código abierto y a la comunidad GNOME en general
+    - Completar actualizaciones de software para clientes automotibe que se aplicarán en versiones futuras
+
+- company:
+    name: Yelo Test Systems
+    url: "https://www.yelo.co.uk/"
+    location: Carrickfergus, Irlanda del Norte
+    # company overview
+    overview: Yelo diseña y fabrica equipos de prueba automatizados y soluciones de ingeniería de pruebas para una amplia gama de industrias, incluidas la fotónica, la automoción y la defensa.
+  positions:
+  - designation: Ingeniero de Aplicaciones
+    start: Junio 2017
+    end: Septiembre 2018
+    responsibilities:
+    - Proyecto gestionó el desarrollo de un taladro de PCB autónomo de accionamiento óptico
+    - Programas desarrollados usando LabVIEW, C ++ y C.
+    - Trabajó principalmente en reparación de productos y soporte técnico para clientes.

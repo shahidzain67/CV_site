@@ -1,0 +1,68 @@
+# section information
+section:
+  name: Proyectos
+  id: projects
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  template: sections/projects.html
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Profesional
+  filter: "profesional"
+- name: Académico
+  filter: "académico"
+- name: Pasatiempos
+  filter: "pasatiempos"
+
+# your projects
+projects:
+- name: Simulador de pie fantasma
+  logo: /img/phan-foot.png
+  role: Dueño
+  timeline: "Septiembre 2019 - Presente"
+  summary: Desarrollo de herramientas para ayudar al diseño de dispositivos médicos para el pie industrial.
+  tags: ["profesional"]
+
+- name: Academic Journal
+  logo: /img/academic.jpg
+  role: Dueño
+  timeline: "Septiembre 2019 - Mayo 2020"
+  repo: "https://gitlab.com/shahidzain67/phd-journal-tracking"
+  summary: Registro día a día de notas académicas
+  tags: ["académico"]
+
+- name: Sociedad CDT
+  logo: /img/logo.png
+  role: Miembro del Comité
+  timeline: "Septiembre 2019 - Presente"
+  url: "https://www.cdtpando.com/"
+  summary: Una sociedad dirigida por estudiantes para la promoción de innovaciones para usuarios de prótesis y ortesis.
+  tags: ["académico"]
+
+- name: Sociedad de BSL
+  logo: /img/BSL.jpg
+  role: Miembre
+  timeline: "Septiembre 2020 - Presente"
+  url: "https://letrasconlalechuga.netlify.app/bsl/"
+  summary: Aprender el lenguaje de señas británico
+  tags: ["pasatiempos"]
+
+- name: Bouldering
+  logo: /img/bouldering.jpg
+  role: Miembro
+  timeline: "Mayo 2017 - Presente"
+  summary: Escalar y escalada en roca.
+  tags: ["hobby"]
+
+- name: Knitting
+  logo: /img/knitting.jpg
+  role: Dueño
+  timeline: "Por siempre y para siempre"
+  summary: Haciendo algo perpetuamente
+  tags: ["pasatiempos"]

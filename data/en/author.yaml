@@ -1,0 +1,17 @@
+# some information about you
+name: "Zain Shahid"
+nickname: "Zain"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+image: "img/zain.png"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "zshahid.research@gmail.com"
+
+# some summary about what you do
+summary:
+  - I am a PhD Student
+  - I am an Engineer
+  - I love web development
+  - I love to work with some fun projects
+  - I love the world of medical engineering

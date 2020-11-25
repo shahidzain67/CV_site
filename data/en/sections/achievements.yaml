@@ -1,0 +1,24 @@
+# section information
+section:
+  name: Achievements
+  id: achievements
+  enable: true
+  weight: 6
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your achievements achievements
+achievements:
+- title: Graduation
+  image: /img/graduation-cap.jpg
+  summary: Received Bachelor of Engineering (B.Eng.) in Mechatronic Engineering with Industrial Experience from The University of Manchester.
+- title: Fundraising
+  image: /img/fundraising.jpg
+  summary: Raised £28,000 and led a team to climb Kilimanjaro for [Hope for Children](https://www.hope-for-children.org/)
+- title: Volunteering
+  image: /img/volunteering.jpg
+  summary: Completed International Citizen Service placement in Nicaragua with [Raleigh International](https://raleighinternational.org/)
+- title: Language Learning
+  image: /img/languages.jpg
+  summary: Native speaker of English, fluent in Spanish and beginner in Urdu, Arabic and British Sign Language.
