@@ -6,12 +6,13 @@ greeting: "Hi, I am"
 image: "img/zain.jpg"
 # give your some contact information. they will be used in the footer
 contactInfo:
-  email: "zshahid.research@gmail.com"
+  email: "shahidzain67@gmail.com"
 
 # some summary about what you do
 summary:
-  - I am a PhD Student
-  - I am an Engineer
-  - I love web development
-  - I love to work with some fun projects
-  - I love the world of medical engineering
+  - PhD Student
+  - Mechatronic Engineer
+  - Data Analytics
+  - Rock Climbing
+  - Running
+  - Literature and Poetry
