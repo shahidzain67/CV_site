@@ -18,49 +18,49 @@ company:
 resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate PhD student in Mechatronic Engineering with an interest in data analytics. I pursue web development as a hobby and build websites using [Hugo](https://gohugo.io/).'
+summary: "I am a passionate PhD student in Mechatronic Engineering with an interest in data analytics. I pursue web development as a hobby and build websites using [Hugo](https://gohugo.io/)."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
-- name: Email
-  icon: "fas fa-envelope"
-  url: "shahidzain67@gmail.com"
+  - name: Email
+    icon: "fas fa-envelope"
+    url: "shahidzain67@gmail.com"
 
-- name: Gitlab
-  icon: "fab fa-gitlab"
-  url: "https://gitlab.com/shahidzain67"
+  - name: Gitlab
+    icon: "fab fa-gitlab"
+    url: "https://gitlab.com/shahidzain67"
 
-- name: LinkedIn
-  icon: "fab fa-linkedin"
-  url: "https://www.linkedin.com/in/zshahidresearch/"
+  - name: LinkedIn
+    icon: "fab fa-linkedin"
+    url: "https://www.linkedin.com/in/zshahidresearch/"
 
-- name: Twitter
-  icon: "fab fa-twitter"
-  url: "https://twitter.com/zshahidresearch"
+  - name: Twitter
+    icon: "fab fa-twitter"
+    url: "https://twitter.com/zshahidresearch"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
-- name: Python
-  percentage: 100
-  color: SQL
-- name: Team Work
-  percentage: 100
-  color: yellow
-- name: Tableau
-  percentage: 100
-  color: pink
-- name: CAD
-  percentage: 100
-  color: green
-- name: Communication
-  percentage: 100
-  color: sky
-- name: Microsoft Office
-  percentage: 100
-  color: orange
+  - name: Python
+    percentage: 100
+    color: blue
+  - name: SQL
+    percentage: 100
+    color: yellow
+  - name: Tableau
+    percentage: 100
+    color: pink
+  - name: CAD
+    percentage: 100
+    color: green
+  - name: Microsoft Office
+    percentage: 100
+    color: sky
+  - name: Communication
+    percentage: 100
+    color: orange
 # you can also provide color code instead of pre-defined color name
 # - name: Example 1
 #   percentage: 75

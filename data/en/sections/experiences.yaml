@@ -3,7 +3,7 @@ section:
   name: Education and Work Experience
   id: experiences
   enable: true
-  weight: 3
+  weight: 2
   showOnNavbar: true
   template: sections/experiences.html
   # Can optionally hide the title in sections
@@ -46,20 +46,6 @@ experiences:
           - Design Projects include - low cost, gravity assisted upper limb rehabilitation tool for cerebral palsy; autonomous, line following buggy.
           - Industrial experience year as an applications engineer.
           - Involvement in charity/volunteering projects including International Citizen Service (ICS) and Raise and Give to raise over £20,000 for local and international charities.
-
-  - company:
-      name: Codethink
-      url: "https://www.codethink.co.uk/"
-      location: Manchester, England
-      overview: Codethink specialises in system-level software infrastructure to support advanced technical applications, working across a range of industries including finance, automotive, medical, telecoms.
-    positions:
-      - designation: Software Engineering Intern
-        start: June 2019
-        end: September 2019
-        responsibilities:
-          - Shadowing engineers in Python, C and Rust-based applications
-          - Contributing to open-source projects and the wider GNOME community
-          - Completing software upgrades for automotibe clients to be applied in future releases
 
   - company:
       name: Yelo Test Systems Ltd
