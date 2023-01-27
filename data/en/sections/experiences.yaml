@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Experiences
+  name: Education and Work Experience
   id: experiences
   enable: true
   weight: 3
@@ -24,9 +24,29 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and development of foot medical health devices
-    - Committee member of the [Prosthetics and Orthotics Society](https://www.cdtpando.com/)
-    - Teaching and student support
+    - Research title: Development of an Industrial Test Platform for Foot Health Device and Footwear Testing
+    - Data analysis to evaluate product performance and inform design decisions
+    - Explanation of complex solutions to non-technical commercial and academic stakeholders in a succinct manner via written reports, presentations, and conference calls. 
+    - Experience dealing with senior stakeholders during high-pressure communications following the acquisition of the commercial partner. 
+    -	Evaluation of technical design drawings, processes and costs to determine project feasibility.
+    -	Successful completion of design projects to advance products.
+    -	Liaising with service-users to inform the decision-making process.
+
+- company:
+    name: University of Manchester
+    url: "https://www.manchester.ac.uk/"
+    location: Manchester, England
+    # company overview
+    overview: School of Electrical and Electronic Engineering
+  positions:
+  - designation: BEng Mechatronic Engineering with Industrial Experience
+    start: September 2015#
+    end: September 2019
+    responsibilities:
+    - Design Projects include: low cost, gravity assisted upper limb rehabilitation tool for cerebral palsy; autonomous, line following buggy.
+  	- Industrial experience year as an applications engineer.
+    -	Involvement in charity/volunteering projects including International Citizen Service (ICS) and Raise and Give to raise over £20,000 for local and international charities.
+
 
 - company:
     name: Codethink
@@ -43,7 +63,7 @@ experiences:
     - Completing software upgrades for automotibe clients to be applied in future releases
 
 - company:
-    name: Yelo Test Systems
+    name: Yelo Test Systems Ltd
     url: "https://www.yelo.co.uk/"
     location: Carrickfergus, Northern Ireland
     # company overview
@@ -53,6 +73,20 @@ experiences:
     start: June 2017
     end: September 2018
     responsibilities:
-    - Project managed the development of an autonomous, optically driven PCB drill
-    - Developed programs using LabVIEW, C++ and C.
-    - Primarily worked on product repair and technical support for clients.
+    - Retrieved, analyzed and visualized data to produce reports for management to determine product performance.
+    - Liaised between software, electronic and mechanical engineering teams to collectively deliver technical solutions.
+  	- Led internal project to design and deliver autonomous manufacturing tool to increase productivity. 
+
+- company:
+    name: Codethink Ltd
+    url: "https://www.codethink.co.uk/"
+    location: Manchester, UK
+    # company overview
+    overview: Codethink has been delivering critical, high-performance software projects for international companies in a range of industries including Automotive, Finance, Medical and IoT.
+  positions:
+  - designation: Software Engineer
+    start: June 2019
+    end: September 2019
+    responsibilities:
+    - Supported automotive client facing projects by contributing to Git repository
+    -	Delivered open-source python based projects to engage with the wider GNOME community

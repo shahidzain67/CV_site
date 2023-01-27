@@ -18,14 +18,14 @@ company:
 resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate PhD student in Mechatronic Engineering with an interest in Prosthetics and Orthotics. I have an interest in web development and build websites using [Hugo](https://gohugo.io/).'
+summary: 'I am a passionate PhD student in Mechatronic Engineering with an interest in data analytics. I pursue web development as a hobby and build websites using [Hugo](https://gohugo.io/).'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "zshahid.research@gmail.com"
+  url: "shahidzain67@gmail.com"
 
 - name: Gitlab
   icon: "fab fa-gitlab"
@@ -43,22 +43,22 @@ socialLinks:
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
-- name: Leadership
+- name: Python
   percentage: 100
-  color: blue
+  color: SQL
 - name: Team Work
   percentage: 100
   color: yellow
-- name: Communication
+- name: Tableau
   percentage: 100
   color: pink
-- name: Hard Working
+- name: CAD
   percentage: 100
   color: green
-- name: Fast Learner
+- name: Communication
   percentage: 100
   color: sky
-- name: Problem Solving
+- name: Microsoft Office
   percentage: 100
   color: orange
 # you can also provide color code instead of pre-defined color name
