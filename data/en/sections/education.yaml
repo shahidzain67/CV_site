@@ -1,7 +1,7 @@
 # section information
 section:
-  name: Work Experience
-  id: experiences-1
+  name: Education and Work Experience
+  id: experiences
   enable: true
   weight: 2
   showOnNavbar: true
