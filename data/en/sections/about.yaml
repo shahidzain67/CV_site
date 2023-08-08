@@ -8,17 +8,17 @@ section:
   template: sections/about.html
 
 # your designation
-designation: PhD Student
+designation: Data Engineer and Full Stack Developer
 # your company information
 company:
-  name: University of Salford
-  url: "https://www.salford.ac.uk/"
+  name: Brilliant Planet
+  url: "https://www.brilliantplanet.com/"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/resume.pdf"
 
 # a summary about you
-summary: "I am a passionate PhD student in Mechatronic Engineering with an interest in data analytics. I pursue web development as a hobby and build websites using [Hugo](https://gohugo.io/)."
+summary: "I'm a London based **Data Engineer and Full Stack Developer**, currently working at **Brilliant Planet** helping build tools to support carbon removal using algae. In my free time, you can catch me **rock climbing** in nature, **knitting** something cosy, or hiking along the beautiful scenery of the **UK**."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -31,9 +31,13 @@ socialLinks:
     icon: "fab fa-gitlab"
     url: "https://gitlab.com/shahidzain67"
 
+  - name: GitHub
+    icon: "fab fa-github"
+    url: "https://github.com/shahidzain67"
+
   - name: LinkedIn
     icon: "fab fa-linkedin"
-    url: "https://www.linkedin.com/in/zshahidresearch/"
+    url: "https://www.linkedin.com/in/z-shahid/"
 
   - name: Twitter
     icon: "fab fa-twitter"
@@ -43,22 +47,22 @@ socialLinks:
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
-  - name: Python
+  - name: React/Typescript
     percentage: 100
     color: blue
-  - name: SQL
+  - name: AWS
     percentage: 100
     color: yellow
-  - name: Tableau
+  - name: MySQL
     percentage: 100
     color: pink
-  - name: CAD
+  - name: Tableau
     percentage: 100
     color: green
-  - name: Microsoft Office
+  - name: Python (Pandas, NumPy)
     percentage: 100
     color: sky
-  - name: Communication
+  - name: Static Web Development
     percentage: 100
     color: orange
 # you can also provide color code instead of pre-defined color name
