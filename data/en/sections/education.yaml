@@ -41,28 +41,14 @@ experiences:
           - Machine Learning and AI - regression, supervised learning, unsupervised learning, neural networks
 
   - company:
-      name: BEng Mechatronic 
+      name: University of Manchester
       url: "https://www.manchester.ac.uk/"
-      location: University of Manchester
+      location: Manchester, UK
       # company overview
-      overview: Codethink are open source specialists in developing system-level software infrastructure for clients in the electronics, finance, medical and automotive sectors. I completed a 3 month placement with the company within the automotive team. Here I had the opportunity to liaise with clients and contribute to several repositories to document product development and update README's for technical and non-technical users. Additionally, I delivered open-source python based projects to engage with the wider GNOME 
-        community and attended an international GNOME conference.
+      overview: I completed my Bachelors of Mechatronic Engineering with an Industrial Placement at the University of Manchester and achieved a thorough education in the underlying theory, concepts, and science behind programming, robotics and electronic engineering. It was here that I discovered my passion for engineering applied in medical, financial and tech sectors, end-to-end application software development, and found that I have a knack for grasping new technologies quickly.
     positions:
-      - designation: Software Engineer Internship
-        start: June 2019
+      - designation: BEng Mechatronic Engineering with an Industrial Placement
+        start: September 2015
         end: September 2019
         responsibilities: 
-          Core technologies - Python, Git, Linux (GNOME)
-
-  - company:
-      name: Yelo Test Systems Ltd
-      url: "https://www.yelo.co.uk/"
-      location: Carrickfergus, Northern Ireland
-      # company overview
-      overview: Yelo produces electronics test equipment for the photonics industry. I was offered a scholarship and industrial placement with the company to rotate between electronics, mechanical and software engineering teams. Through my placement I developed Excel macros to wrangle, clean and visualise test results. Additionally, I designed and delivered an autonomous manufacturing tool and organised outreach programs with local schools to introduce students to software engineering and programming.
-    positions:
-      - designation: Applications Engineer Industrial Placement
-        start: June 2017
-        end: September 2018
-        responsibilities: 
-          Core technologies - Visual Basic, LabView, C, Arduino 
+          Embedded systems - C, C++, Machine code, Arduino, Raspberry Pi
