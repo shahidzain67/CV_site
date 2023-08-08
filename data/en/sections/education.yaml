@@ -1,32 +1,33 @@
 # section information
 section:
-  name: Education and Work Experience
-  id: experiences
+  name: Education
+  id: education
   enable: true
   weight: 2
   showOnNavbar: true
-  template: sections/experiences.html
+  template: sections/education.html
   # Can optionally hide the title in sections
   # hideTitle: true
 
 # Your experiences
 experiences:
   - company:
-      name: Brilliant Planet
-      url: "https://www.brilliantplanet.com/"
-      location: Harpenden, UK
+      name: University of Salford
+      url: "https://www.salford.ac.uk/"
+      location: Manchester, UK
       # company overview
-      overview: I am currently working as a Data Engineer / Full Stack Developer at Brilliant Planet. Operating in the carbon market, we are a startup building algae-based carbon capture technology to offset emissions. Here I am responsible for building the core technologies used by the science and engineering teams to wrangle large datasets, analyse this data, and visualise control systems, all through intuitive web applications.
+      overview: I undertook a PhD at the University of Salford to pursue my interest in engineering applications in medicine. My project titled "Development of an industrial test platform for foot health devices" involved the creation of a robotic system and 3D printed human foot model to test prosthetic and orthotic foot products against clinical standards and provide a test solution for industry. Through this I gained significant experience in outlining a specification to meet the needs of stakeholders and align with cutting edge research, design, develop and validate a product and ultimately deliver a test package to be implemented in industry.
     positions:
       - designation: Data Engineer / Full Stack Developer
-        start: July 2023
+        start: September 2019
+        end: September 2023
         responsibilities: 
-        - FrontEnd - React/Typescript, Dash
-        - Backend/Cloud/Database - AWS, MySQL, Docker, Gitlab CI/CD, Node
+        - Data Processing and Analytics - Matlab, Python (Pandas)
+        - CAD and Other - Solidworks, Cura, Vicon/Qualisys, Visual3D
 
   - company:
-      name: Eleven-I
-      url: "https://www.eleven-i.com/"
+      name: HyperionDev/University of Edinburgh
+      url: "https://www.hyperiondev.com/"
       location: Manchester, UK
       # company overview
       overview: Eleven-I is responsible for creating embedded devices for wind turbine management and analysis. I was brought on during my PhD to develop data science and analytics protocols currently in place, to provide further insight into the performance of individual wind turbines.
