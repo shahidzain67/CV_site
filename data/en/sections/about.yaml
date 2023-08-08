@@ -59,10 +59,10 @@ softSkills:
   - name: Tableau
     percentage: 100
     color: green
-  - name: Python (Pandas, NumPy)
+  - name: Python
     percentage: 100
     color: sky
-  - name: Static Web Development
+  - name: Static Web
     percentage: 100
     color: orange
 # you can also provide color code instead of pre-defined color name
