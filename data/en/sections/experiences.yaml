@@ -51,19 +51,6 @@ experiences:
         end: September 2019
         responsibilities: 
         -  Core technologies - Python, Git, Linux (GNOME)
-
-  - company:
-      name: Yelo Test Systems Ltd
-      url: "https://www.yelo.co.uk/"
-      location: Carrickfergus, Northern Ireland
-      # company overview
-      overview: Yelo produces electronics test equipment for the photonics industry. I was offered a scholarship and industrial placement with the company to rotate between electronics, mechanical and software engineering teams. Through my placement I developed Excel macros to wrangle, clean and visualise test results. Additionally, I designed and delivered an autonomous manufacturing tool and organised outreach programs with local schools to introduce students to software engineering and programming.
-    positions:
-      - designation: Applications Engineer Industrial Placement
-        start: June 2017
-        end: September 2018
-        responsibilities: 
-        -  Core technologies - Visual Basic, LabView, C, Arduino 
           
   - company:
       name: University of Salford
@@ -93,6 +80,19 @@ experiences:
           - Python for Data Science
           - Data Analytics and Exploration - MySQL, Pandas, Numpy, Seaborn, Matplotlib, Tableau
           - Machine Learning and AI - regression, supervised learning, unsupervised learning, neural networks
+
+  - company:
+      name: Yelo Test Systems Ltd
+      url: "https://www.yelo.co.uk/"
+      location: Carrickfergus, Northern Ireland
+      # company overview
+      overview: Yelo produces electronics test equipment for the photonics industry. I was offered a scholarship and industrial placement with the company to rotate between electronics, mechanical and software engineering teams. Through my placement I developed Excel macros to wrangle, clean and visualise test results. Additionally, I designed and delivered an autonomous manufacturing tool and organised outreach programs with local schools to introduce students to software engineering and programming.
+    positions:
+      - designation: Applications Engineer Industrial Placement
+        start: June 2017
+        end: September 2018
+        responsibilities: 
+        -  Core technologies - Visual Basic, LabView, C, Arduino 
 
   - company:
       name: University of Manchester
