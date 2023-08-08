@@ -35,8 +35,8 @@ experiences:
         start: March 2023
         end: June 2023
         responsibilities: 
-          Analytics - Tableau, Grafana, Python (Pandas, Numpy)
-          Core technologies - C, C++, Docker, Kubernetes
+        -  Analytics - Tableau, Grafana, Python (Pandas, Numpy)
+        -  Core technologies - C, C++, Docker, Kubernetes
 
   - company:
       name: Codethink Ltd
@@ -50,7 +50,7 @@ experiences:
         start: June 2019
         end: September 2019
         responsibilities: 
-          Core technologies - Python, Git, Linux (GNOME)
+        -  Core technologies - Python, Git, Linux (GNOME)
 
   - company:
       name: Yelo Test Systems Ltd
@@ -63,7 +63,7 @@ experiences:
         start: June 2017
         end: September 2018
         responsibilities: 
-          Core technologies - Visual Basic, LabView, C, Arduino 
+        -  Core technologies - Visual Basic, LabView, C, Arduino 
           
   - company:
       name: University of Salford
@@ -105,4 +105,4 @@ experiences:
         start: September 2015
         end: September 2019
         responsibilities: 
-          Embedded systems - C, C++, Machine code, Arduino, Raspberry Pi
+        -  Embedded systems - C, C++, Machine code, Arduino, Raspberry Pi
