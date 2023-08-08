@@ -18,7 +18,7 @@ company:
 resume: "files/resume.pdf"
 
 # a summary about you
-summary: "I'm a London based **Data Engineer and Full Stack Developer**, currently working at **Brilliant Planet** helping build tools to support carbon removal using algae. <br>In my free time, you can catch me **rock climbing** in nature, **knitting** something cosy, or hiking along the beautiful scenery of the **UK**."
+summary: "I'm a London based **Data Engineer and Full Stack Developer**, currently working at **Brilliant Planet** helping build tools to support carbon removal using algae. <br><br>In my free time, you can catch me **rock climbing** in nature, **knitting** something cosy, or hiking along the beautiful scenery of the **UK**."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
