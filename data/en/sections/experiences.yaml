@@ -25,6 +25,20 @@ experiences:
         - Backend/Cloud/Database - AWS, MySQL, Docker, Gitlab CI/CD, Node
 
   - company:
+      name: University of Salford
+      url: "https://www.salford.ac.uk/"
+      location: Manchester, UK
+      # company overview
+      overview: I undertook a PhD at the University of Salford to pursue my interest in engineering applications in medicine. My project titled "Development of an industrial test platform for foot health devices" involved the creation of a robotic system and 3D printed human foot model to test prosthetic and orthotic foot products against clinical standards and provide a test solution for industry. Through this I gained significant experience in outlining a specification to meet the needs of stakeholders and align with cutting edge research, design, develop and validate a product and ultimately deliver a test package to be implemented in industry.
+    positions:
+      - designation: PhD
+        start: September 2019
+        end: September 2023
+        responsibilities: 
+        - Data Processing and Analytics - Matlab, Python (Pandas)
+        - CAD and Other - Solidworks, Cura, Vicon/Qualisys, Visual3D
+
+  - company:
       name: Eleven-I
       url: "https://www.eleven-i.com/"
       location: Manchester, UK
@@ -52,20 +66,7 @@ experiences:
         responsibilities: 
         -  Core technologies - Python, Git, Linux (GNOME)
           
-  - company:
-      name: University of Salford
-      url: "https://www.salford.ac.uk/"
-      location: Manchester, UK
-      # company overview
-      overview: I undertook a PhD at the University of Salford to pursue my interest in engineering applications in medicine. My project titled "Development of an industrial test platform for foot health devices" involved the creation of a robotic system and 3D printed human foot model to test prosthetic and orthotic foot products against clinical standards and provide a test solution for industry. Through this I gained significant experience in outlining a specification to meet the needs of stakeholders and align with cutting edge research, design, develop and validate a product and ultimately deliver a test package to be implemented in industry.
-    positions:
-      - designation: PhD
-        start: September 2019
-        end: September 2023
-        responsibilities: 
-        - Data Processing and Analytics - Matlab, Python (Pandas)
-        - CAD and Other - Solidworks, Cura, Vicon/Qualisys, Visual3D
-
+  
   - company:
       name: HyperionDev/University of Edinburgh
       url: "https://www.hyperiondev.com/"
