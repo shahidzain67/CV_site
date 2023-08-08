@@ -20,8 +20,9 @@ experiences:
     positions:
       - designation: Data Engineer / Full Stack Developer
         start: July 2023
-        FrontEnd: React/Typescript, Dash
-        Backend/Cloud/Database: AWS, MySQL, Docker, Gitlab CI/CD, Node
+        responsibilities: 
+        - FrontEnd: React/Typescript, Dash
+        - Backend/Cloud/Database: AWS, MySQL, Docker, Gitlab CI/CD, Node
 
   - company:
       name: Eleven-I
