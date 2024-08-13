@@ -56,10 +56,10 @@ softSkills:
   - name: Python
     percentage: 100
     color: sky
-  - name: MySQL / MongoDB
+  - name: MySQL
     percentage: 100
     color: pink
-  - name: Tableau
+  - name: NoSQL
     percentage: 100
     color: green
   - name: React/Typescript
