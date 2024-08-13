@@ -59,7 +59,21 @@ params:
     favicon: /img/favicon.ico
 
   # GitHub repo URL of your site
-  gitRepo: https://gitlab.com/shahidzain67/
+  gitRepo: https://gitlab.com/shahidzain67/CV_site
+
+  # Default branch of your Git repo
+  gitBranch: main
+
+  # Configure various features of this theme
+  features:
+
+    # Enable dark theme
+    darkMode:
+      enable: true
+
+    # Enable and configure portfolio
+    portfolio:
+      enable: false
 
   # specify whether you want to write some blog posts or not
   enableBlogPost: false
