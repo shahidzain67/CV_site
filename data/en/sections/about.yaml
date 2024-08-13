@@ -8,17 +8,17 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Data Engineer and Full Stack Developer
+designation: Data Engineer
 # your company information
 company:
-  name: Brilliant Planet
-  url: "https://www.brilliantplanet.com/"
+  name: SH:24
+  url: "https://sh24.org.uk/"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/resume.pdf"
 
 # a summary about you
-summary: "I'm a London based **Data Engineer and Full Stack Developer**, currently working at **Brilliant Planet** helping build tools to support carbon removal using algae. <br><br>In my free time, you can catch me **rock climbing** in nature, **knitting** something cosy, or hiking along the beautiful scenery of the **UK**."
+summary: "I'm a London based **Data Engineer**, currently working at **SH24** helping build a data platform for a free online sexual health service, delivered in partnership with the NHS. <br><br>In my free time, you can catch me **rock climbing** in nature, **knitting** something cosy, or hiking along the beautiful scenery of the **UK**."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -47,24 +47,25 @@ socialLinks:
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
-  - name: React/Typescript
-    percentage: 100
-    color: blue
-  - name: AWS
+  - name: AWS / GCP
     percentage: 100
     color: yellow
-  - name: MySQL
+  - name: Databricks
+    percentage: 100
+    color: orange
+  - name: Python
+    percentage: 100
+    color: sky
+  - name: MySQL / MongoDB
     percentage: 100
     color: pink
   - name: Tableau
     percentage: 100
     color: green
-  - name: Python
+  - name: React/Typescript
     percentage: 100
-    color: sky
-  - name: Static Web
-    percentage: 100
-    color: orange
+    color: blue
+
 # you can also provide color code instead of pre-defined color name
 # - name: Example 1
 #   percentage: 75

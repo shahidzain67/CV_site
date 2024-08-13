@@ -1,5 +1,5 @@
 # some information about you
-name: "Zain Shahid"
+name: "Dr Zain Shahid, PhD"
 nickname: "Zain"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hi, I am"
@@ -10,10 +10,11 @@ contactInfo:
 
 # some summary about what you do
 summary:
-  - Full Stack Developer
   - Data Engineer
-  - PhD Candidate
+  - Full Stack Developer
+  - PhD holder
   - Mechatronic Engineer
   - Rock Climber
+  - DIY enthusiast
   - Runner
   - Poet

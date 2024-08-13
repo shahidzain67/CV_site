@@ -12,14 +12,27 @@ section:
 # Your experiences
 experiences:
   - company:
+      name: SH:24
+      url: "https://sh24.org.uk/"
+      location: London, UK
+      # company overview
+      overview: I am currently working as a Data Engineer at SH24, a non-profit that provides free and confidential online STI testing and advice and information on sexual, genital and reproductive health in partnership with the NHS 24 hours a day. I have taken ownership of an application stack to ingest, analyse and display Google Analytics data using Databricks to better serve customers. Working with data analysts and domain experts I have prioritised and implemented features, deployed updates, and reviewed/refactored code for deployment. I also use and continue to extend the AWS deployment based on CloudFormation and prototyped API access via Python.
+    positions:
+      - designation: Data Engineer
+        start: September 2023
+        responsibilities: 
+        - Backend/Cloud/Database -  AWS, MySQL, Databricks, Docker, Github CI/CD, Python
+
+  - company:
       name: Brilliant Planet
       url: "https://www.brilliantplanet.com/"
       location: Harpenden, UK
       # company overview
-      overview: I am currently working as a Data Engineer / Full Stack Developer at Brilliant Planet, a cleantech startup. I took ownership of an application stack to ingest, analyse and display complex and heterogeneous lab data. Working with data scientists and domain experts I prioritised and implemented features, deployed updates, and reviewed/refactored code for deployment. I also used and extended the AWS deployment based on CloudFormation and prototyped API access using Lambda/API Gateway.
+      overview: I worked as a Data Engineer / Full Stack Developer at Brilliant Planet, a cleantech start-up. I took ownership of an application stack to ingest, analyse and display complex and heterogeneous lab data. Working with data scientists and domain experts I prioritised and implemented features, deployed updates, and reviewed/refactored code for deployment. I also used and extended the AWS deployment based on CloudFormation and prototyped API access using Lambda/API Gateway.
     positions:
       - designation: Data Engineer / Full Stack Developer
         start: July 2023
+        end: September 2023
         responsibilities: 
         - FrontEnd - React/Typescript, Dash
         - Backend/Cloud/Database - AWS, MySQL, Docker, Gitlab CI/CD, Node
@@ -35,7 +48,7 @@ experiences:
         start: September 2019
         end: September 2023
         responsibilities: 
-        - Data Processing and Analytics - Matlab, Python (Pandas)
+        - Data Processing and Analytics - Python (Pandas), Matlab, Databricks
         - CAD and Other - Solidworks, Cura, Vicon/Qualisys, Visual3D
 
   - company:
