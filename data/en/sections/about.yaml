@@ -15,7 +15,7 @@ company:
   url: "https://sh24.org.uk/"
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/resume.pdf"
+resume: "files/resume.pdf" 
 
 # a summary about you
 summary: "I'm a London based **Data Engineer**, currently working at **SH24** helping build a data platform for a free online sexual health service, delivered in partnership with the NHS. <br><br>In my free time, you can catch me **rock climbing** in nature, **knitting** something cosy, or hiking along the beautiful scenery of the **UK**."
